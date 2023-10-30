@@ -1,0 +1,8 @@
+//        Inheritance and Polymorphism:
+//
+//        Create a base class Vehicle with attributes like make, model, and a
+//        method startEngine(). Then, create subclasses like Car and Motorcycle
+//        that inherit from Vehicle and override the startEngine() method. Create
+//        instances of both subclasses and demonstrate polymorphism by calling
+//        the startEngine() method on them.
+
