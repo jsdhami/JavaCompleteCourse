@@ -10,6 +10,10 @@ public class FirstProject{
         // This is a comment
 
         /* This is a multi-line comment */
+        String firstName = "Janak";
+        String lastName = "Patel";
+        String fullName = firstName + " " + lastName;   // String concatenation
+        System.out.println(fullName);
 
 
 
